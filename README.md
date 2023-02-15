@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Mehmet, Fullstack developer from <img src="https://www.svgrepo.com/show/237418/turkey.svg" width="13"/> <b>Bursa, Turkey</b>, currently living in <img src="https://icons8.com/icon/ChHJGCSjceqH/turkey" width="13"/> <b>Eskişehir, Turkey</b>. </p>
+<p>Welcome to my page! </br> I'm Mehmet, Fullstack developer from <img src="https://www.svgrepo.com/show/237418/turkey.svg" width="13"/> <b>Bursa, Turkey</b>, currently living in <img src="https://www.svgrepo.com/show/237418/turkey.svg" width="13"/> <b>Eskişehir, Turkey</b>. </p>
 <h3>Things I code with</h3>
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
