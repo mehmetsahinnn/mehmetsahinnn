@@ -9,6 +9,7 @@
 
 <div align="center">
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=mehmetsahinnn&show_icons=true&theme=radical">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetsahinnn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
