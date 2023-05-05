@@ -1,6 +1,6 @@
 <!-- Title and intro -->
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>Welcome to my page! </br> I'm Mehmet, Fullstack developer from <img src="https://www.svgrepo.com/show/237418/turkey.svg" width="13"/> <b>Bursa, Turkey</b>, currently living in <img src="https://www.svgrepo.com/show/237418/turkey.svg" width="13"/> <b>Eskişehir, Turkey</b>. Passionate about new things and enthusiastic about the future ✨ </p>
+<p>Welcome to my page! </br> I'm Mehmet, Fullstack developer from <img src="https://www.svgrepo.com/show/237418/turkey.svg" width="13"/> <b>Bursa, Turkey</b>, <!-- currently living in <img src="https://www.svgrepo.com/show/237418/turkey.svg" width="13"/> <b>Eskişehir, Turkey</b>.--> Passionate about new things and enthusiastic about the future ✨ </p> 
 
 <hr>
 
